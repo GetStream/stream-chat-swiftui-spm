@@ -1,4 +1,4 @@
-# Stream Chat
+# Stream Chat SwiftUI
 
 ### Please refer to the main repo for more information: [stream-chat-swiftui](https://github.com/GetStream/stream-chat-swiftui/)
 
