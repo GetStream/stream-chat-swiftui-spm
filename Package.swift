@@ -17,7 +17,7 @@ let package = Package(
     ],
     targets: [
         .binaryTarget(name: "StreamChatSwiftUI",
-                      url: "https://github.com/GetStream/stream-chat-swiftui/releases/download/4.46.0/StreamChatSwiftUI.zip",
-                      checksum: "8ff7bbb35eb30034ee0103f18b064c566ffb741ef347801211a5f14d39eaf35b")
+                      url: "https://github.com/GetStream/stream-chat-swiftui/releases/download/4.47.0/StreamChatSwiftUI.zip",
+                      checksum: "1ba9937d90e8c54c71d46ab86577563c8ba707a19c73de87e45ff13d895211fb")
     ]
 )
